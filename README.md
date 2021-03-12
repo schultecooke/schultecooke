@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Schulte Cooke.
+- 👀 I hope to learn more coding, especially when working in ArcGIS.
+- 🌱 One thing I know about Open Source is it's about combining projects through public collaboration.
+- 💞️ I’m looking to collaborate on ...
+- ✨ My hobbies are hiking, biking and I love to travel so I try to explore new places as much as I can.
